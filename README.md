@@ -3,22 +3,17 @@
     <head>
         <meta charset="utf-8">
         <title> LUCIA´S WEB</title>
+		<style>
+		#LUCIA´S WEB{
+		      background-color: pink;
+		}
+		#what can you find on this website?{
+		      background-color: purple;
+		}
+	</style>
     </head>
     <body>
-	<style>
-		h2 {
-		   color: rgb(247, 191, 190);
-		}
-		p {
-		    color: rgb(234,133, 154);
-		}
-		#LUCIA´S WEB {
-		  background-color: #F7BFBE;
-		}
-		#what can you find on this website? {
-		  background-color: #EA899A;
-		}
-		</style>
+	 
 
     <h1> LUCIA´S WEB</h1>
 
@@ -36,8 +31,3 @@
 		<li>Digital certificates and certificates authorities</li>
 	</ol>
 	</ul>
-
-
-
-    </body>
-</html>
