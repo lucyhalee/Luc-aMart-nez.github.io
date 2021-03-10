@@ -16,6 +16,7 @@
 	 
 
     <h1> LUCIA´S WEB</h1>
+    <img src= "https://images.app.goo.gl/opiQLsHB6PEvzJtMA" alt= first images" width="263">
 
     <h1> <strong>what can you find on this website?</strong></h1>
 	<ul>
