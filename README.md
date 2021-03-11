@@ -1,14 +1,13 @@
-   <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <title> LUCIA´S WEB</title>
 		<style>
 		#LUCIA´S WEB{
-		      background-color: pink;
+		      background-color: "#FF0080";
 		}
 		#what can you find on this website?{
-		      background-color: purple;
+		      background-color: "E61980";
 		}
 	</style>
     </head>
@@ -16,7 +15,7 @@
 	 
 
     <h1> LUCIA´S WEB</h1>
-    <img src= "https://images.app.goo.gl/opiQLsHB6PEvzJtMA" alt= first images" width="263">
+    <img src= "https://images.app.goo.gl/8txe5Pk147ZtnMkk9 " alt= "first images" >
 
     <h1> <strong>what can you find on this website?</strong></h1>
 	<ul>
