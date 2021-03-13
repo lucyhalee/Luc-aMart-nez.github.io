@@ -75,9 +75,9 @@
 	including assistive technologies.</il><br>
      
 	
-	<h4><em>What is WCAG?</em></h3><br>
+	<h4><em>What is WCAG?</em></h4><br>
 	
-	<P1>The Web Content Accessibility Guidelines (WCAG) is an internationally recognised standard created by the World Wide Web Consortium (W3C).<br>
+	<p1>The Web Content Accessibility Guidelines (WCAG) is an internationally recognised standard created by the World Wide Web Consortium (W3C).<br>
 	The purpose of the WCAG standard is to define how to “… make Web content more accessible to people with disabilities. Accessibility involves a wide range 
 	of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities. Although these guidelines
 	cover a wide range of issues, they are not able to address the needs of people with all types, degrees, and combinations of disability. 
@@ -103,7 +103,7 @@
  For WCAG 2.0 there are twelve guidelines. For WCAG 2.1 there is one additional guideline taking the total to thirteen.</p1>
  
  <h5><em>Web Accessibility Initiative (WAI)</em></h5> 
- <p1>The W3C Web Accessibility Initiative (WAI) brings together people from industry, 
+ <p2>The W3C Web Accessibility Initiative (WAI) brings together people from industry, 
  disability organizations, government, and research labs from around the 
  world to develop guidelines and resources to help make the Web accessible to people with auditory, 
  cognitive, neurological, physical, speech, and visual disabilities<br>
@@ -113,7 +113,7 @@
  <il>authoring tools, such as content management systems (CMS) and blog software</il>
  <il>browsers and other "user agents"</il>
  <il>WAI-ARIA specification for accessible rich Internet applications</il>
- </p1>
+ </p2>
 	
    
   
