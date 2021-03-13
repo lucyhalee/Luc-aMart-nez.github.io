@@ -53,8 +53,8 @@
             
 	    </style>
     </head>
-     <!DOCTYPE html>
-<html>
+     
+     <html>
     <head>
         <meta charset="utf-8">
         <title> ACCESIBILITY STANDARS </title>
@@ -129,30 +129,26 @@
     <li><strong>Success Criteria:</strong> Specific technical requirements to ensure that a website is compliant with the standard.</li>
 	</ol><br>
 	<strong><p3>Guidelines:</p3></strong><br>
- Sitting underneath the four POUR principles are a series of guidelines.<br>
- For WCAG 2.0 there are twelve guidelines. For WCAG 2.1 there is one additional guideline taking the total to thirteen.</p1>
+     Sitting underneath the four POUR principles are a series of guidelines.<br>
+    For WCAG 2.0 there are twelve guidelines. For WCAG 2.1 there is one additional guideline taking the total to thirteen.</p1>
  
- <li><strong><p3> Web Accessibility Initiative (WAI)</p3></strong></li>
- <p5>The W3C Web Accessibility Initiative (WAI) brings together people from industry, 
- disability organizations, government, and research labs from around the 
- world to develop guidelines and resources to help make the Web accessible to people with auditory, 
- cognitive, neurological, physical, speech, and visual disabilities<br>
- <li><strong><p3>WAI's coverage of web accessibility includes:</p3></strong><li>
- <ol>
- <li>"web content" - websites and web applications</li>
- <li>authoring tools, such as content management systems (CMS) and blog software</li>
- <li>browsers and other "user agents"</li>
- <li>WAI-ARIA specification for accessible rich Internet applications</li>
- </p5>
- </ol>
- </ul>
- <p>
- <img scr=
-	
-   
+     <li><strong><p3> Web Accessibility Initiative (WAI)</p3></strong></li>
+     <p5>The W3C Web Accessibility Initiative (WAI) brings together people from industry, 
+           disability organizations, government, and research labs from around the 
+     world to develop guidelines and resources to help make the Web accessible to people with auditory, 
+    cognitive, neurological, physical, speech, and visual disabilities<br>
+    <li><strong><p3>WAI's coverage of web accessibility includes:</p3></strong><li>
+    <ol>
+    <li>"web content" - websites and web applications</li>
+    <li>authoring tools, such as content management systems (CMS) and blog software</li>
+    <li>browsers and other "user agents"</li>
+    <li>WAI-ARIA specification for accessible rich Internet applications</li>
+    </p5>
+    </ol>
+    </ul>
   
     </body>
-</html>
+    </html>
     <head>
         <meta charset="utf-8">
         <title>INTERNET SECURITY</title>
@@ -178,21 +174,21 @@
     </head>
     <body>
     <h1><strong>WHAT IS ABOUT?</strong></h1>
-  <p> Internet security consists of a range of security tactics for protecting activities 
-   and transactions conducted online over the internet. 
-   These tactics are meant to safeguard users from threats such as hacking into computer systems, 
-   email addresses, or websites; malicious software that can infect and inherently damage systems; 
-   and identity theft by hackers who steal personal data such as bank account information and credit card numbers.
-   Internet security is a specific aspect of broader concepts such as cybersecurity and computer security,
-   being focused on the specific threats 
-   and vulnerabilities of online access and use of the internet.</p><br>
-   <br>
-   <h2><em>Difference between Active Attack and Passive Attack</em></h2>
-   <p1>Active and Passive Attacks are security attacks. In Active attack, an attacker tries to modify the content
-   of the messages. 
-   Whereas in Passive attack, an attacker observes the messages, copy them and may use them for 
-   malicious purposes.<p1><br>
-   <table>
+    <p> Internet security consists of a range of security tactics for protecting activities 
+     and transactions conducted online over the internet. 
+     These tactics are meant to safeguard users from threats such as hacking into computer systems, 
+    email addresses, or websites; malicious software that can infect and inherently damage systems; 
+    and identity theft by hackers who steal personal data such as bank account information and credit card numbers.
+    Internet security is a specific aspect of broader concepts such as cybersecurity and computer security,
+    being focused on the specific threats 
+    and vulnerabilities of online access and use of the internet.</p><br>
+    <br>
+    <h2><em>Difference between Active Attack and Passive Attack</em></h2>
+    <p1>Active and Passive Attacks are security attacks. In Active attack, an attacker tries to modify the content
+    of the messages. 
+    Whereas in Passive attack, an attacker observes the messages, copy them and may use them for 
+    malicious purposes.<p1><br>
+    <table>
       <thead>
 	     <tr>
 		    <th>key</th>
@@ -292,4 +288,4 @@
  
   
     </body>
-</html>
+    </html>
