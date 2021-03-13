@@ -143,7 +143,6 @@
     <li>authoring tools, such as content management systems (CMS) and blog software</li>
     <li>browsers and other "user agents"</li>
     <li>WAI-ARIA specification for accessible rich Internet applications</li>
-    </p5>
     </ol>
     </ul>
   
@@ -174,6 +173,7 @@
 	    </style>
     </head>
     <body>
+    <br>
     <h1>INTERNET SECURITY</h1><br>
     <br>
     <h2><strong>WHAT IS ABOUT?</strong></h2>
