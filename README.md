@@ -15,7 +15,9 @@
 	 
 
     <h1> LUCIA´S WEB</h1>
-    <img src= "https://images.app.goo.gl/8txe5Pk147ZtnMkk9 " alt= "first images" >
+    <p>
+    <img src= "https://st.depositphotos.com/1000123/4443/i/950/depositphotos_44433061-stock-photo-techno-background.jpg">
+    </p>
 
     <h1> <strong>what can you find on this website?</strong></h1>
 	<ul>
