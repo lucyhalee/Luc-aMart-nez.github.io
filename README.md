@@ -174,9 +174,9 @@
     </head>
     <body>
     <br>
-    <h1>INTERNET SECURITY</h1><br>
+    <h1><strong>INTERNET SECURITY</strong></h1><br>
     <br>
-    <h2><strong>WHAT IS ABOUT?</strong></h2>
+    <h2><em>WHAT IS ABOUT?</em></h2>
     <p> Internet security consists of a range of security tactics for protecting activities 
      and transactions conducted online over the internet. 
      These tactics are meant to safeguard users from threats such as hacking into computer systems, 
