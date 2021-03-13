@@ -174,7 +174,9 @@
 	    </style>
     </head>
     <body>
-    <h1><strong>WHAT IS ABOUT?</strong></h1>
+    <h1>INTERNET SECURITY</h1><br>
+    <br>
+    <h2><strong>WHAT IS ABOUT?</strong></h2>
     <p> Internet security consists of a range of security tactics for protecting activities 
      and transactions conducted online over the internet. 
      These tactics are meant to safeguard users from threats such as hacking into computer systems, 
@@ -282,11 +284,5 @@
 		which include products from Cylance, CrowdStrike, and Carbon Black.</p45>
 		<br>
 		</ul>
-		
-		
-		
-	   
- 
-  
-    </body>
-    </html>
+          </body>
+       </html>
