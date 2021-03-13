@@ -110,7 +110,7 @@
 	of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities. Although these guidelines
 	cover a wide range of issues, they are not able to address the needs of people with all types, degrees, and combinations of disability. 
 	These guidelines also make Web content more usable by older
-	individuals with changing abilities due to aging and often improve usability for users in general.”<br>
+	individuals with changing abilities due to aging and often improve usability for users in general.</p1><br>
 	<li><strong><p3>Which WCAG applies to my mainstream organisation?</p3></strong></li>
 	There are currently two supported versions of the web accessibility standard – WCAG 2.0 and WCAG 2.1. As such, it can be confusing to determine which one
 	your mainstream organisation should consider.
@@ -130,13 +130,13 @@
 	</ol><br>
 	<strong><p3>Guidelines:</p3></strong><br>
      Sitting underneath the four POUR principles are a series of guidelines.<br>
-    For WCAG 2.0 there are twelve guidelines. For WCAG 2.1 there is one additional guideline taking the total to thirteen.</p1>
+    For WCAG 2.0 there are twelve guidelines. For WCAG 2.1 there is one additional guideline taking the total to thirteen.
  
      <li><strong><p3> Web Accessibility Initiative (WAI)</p3></strong></li>
      <p5>The W3C Web Accessibility Initiative (WAI) brings together people from industry, 
            disability organizations, government, and research labs from around the 
      world to develop guidelines and resources to help make the Web accessible to people with auditory, 
-    cognitive, neurological, physical, speech, and visual disabilities<br>
+    cognitive, neurological, physical, speech, and visual disabilities</p5><br>
     <li><strong><p3>WAI's coverage of web accessibility includes:</p3></strong><li>
     <ol>
     <li>"web content" - websites and web applications</li>
@@ -152,7 +152,7 @@
   <html>
   <head>
         <meta charset="utf-8">
-        <title>INTERNET SECURITY</title>
+        <tittle>INTERNET SECURITY</tittle>
 		<style>
 
 		h1 {
