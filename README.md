@@ -20,6 +20,7 @@
     </p>
      p99 {
         color: rgb(153, 153, 204);
+     }
     <h1><strong><p99>WHAT CAN YOU FIND ON THIS WEBSITE?</strong></p99></h1>
 	<ul>
 	    <li>Accessibility Standar</li>
