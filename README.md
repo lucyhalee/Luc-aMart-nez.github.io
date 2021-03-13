@@ -14,12 +14,13 @@
     <body>
 	 
 
-    <h1> LUCIA´S WEB</h1>
+    <h1> LUCIA´S WEB ;) </h1>
     <p>
     <img src= "https://st.depositphotos.com/1000123/4443/i/950/depositphotos_44433061-stock-photo-techno-background.jpg">
     </p>
-
-    <h1> <strong>what can you find on this website?</strong></h1>
+     p99 {
+        color: rgb(153, 153, 204);
+    <h1><strong><p99>WHAT CAN YOU FIND ON THIS WEBSITE?</strong></p99></h1>
 	<ul>
 	    <li>Accessibility Standar</li>
 		<li>Digital signature</li>
