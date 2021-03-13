@@ -73,9 +73,9 @@
 	<il><strong>Understandable</strong> – Information and the operation of user interface must be understandable.</il><br>
 	<il><strong>Robust</strong> – Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, 
 	including assistive technologies.</il><br>
-    </p>
+     
 	
-	<h4><em>What is WCAG?</em></h3>
+	<h4><em>What is WCAG?</em></h3><br>
 	
 	<P1>The Web Content Accessibility Guidelines (WCAG) is an internationally recognised standard created by the World Wide Web Consortium (W3C).<br>
 	The purpose of the WCAG standard is to define how to “… make Web content more accessible to people with disabilities. Accessibility involves a wide range 
