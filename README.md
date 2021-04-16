@@ -61,10 +61,13 @@
         <meta charset="utf-8">
         <title> ACCESIBILITY STANDARS </title>
 		<style>
-		   
-		h1 {
-		    color: rgb(254, 65, 100);
-		}
+		body {
+	            font-size: 12px;
+	        }
+	        h1 {
+	          color: rgb(254, 65, 100);
+		  font-size: 1.5 em;
+	        } 
 		h2 {
 		    color: rgb(255, 128, 128);
 		}
