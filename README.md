@@ -11,7 +11,7 @@
 		font-family: sans-serif;
 		text-align: left;
 		text-indent: 6mm;
-		background: rgb(159, 213, 209);
+		background: rgb(230, 230, 250);
 		border: 2px dashed rgb(255, 242, 102);
 	}
 	strong {
