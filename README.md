@@ -23,7 +23,7 @@
 	</style>
      <body>
 	  <img src= "https://webdesignbylucia.com//wp-content/uploads/2020/04/3254305-02.png" width="300">
-	   <h1><strong>WHAT CAN YOU FIND ON THIS WEBSITE?</strong></h1>
+	   <h2><strong>WHAT CAN YOU FIND ON THIS WEBSITE?</strong></h2>
 <ul>
     <li>Accessibility Standar</li>
 	<li>Digital signature</li>
