@@ -134,7 +134,7 @@
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/20SHvU2PKsM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<li><strong><p3>Overview</p3></strong></li>
 	Regardless of whether you choose to implement WCAG 2.0 or 2.1, 
-	the good news is that both guidelines use the same terminology. The guidelines are separated into the following parts:<br>
+	the good news is that both guidelines use the same terminology. The guidelines are separated into the following parts:</ul><br>
 	<ol>
 	<li><strong>Design principles:</strong> The four overarching principles of accessible website development.</li>
     <li><strong>Guidelines:</strong> short statements providing guidance on what should be considered by designers and developers to make a website accessible.</li>
@@ -143,7 +143,7 @@
 	<strong><p3>Guidelines:</p3></strong><br>
      Sitting underneath the four POUR principles are a series of guidelines.<br>
     For WCAG 2.0 there are twelve guidelines. For WCAG 2.1 there is one additional guideline taking the total to thirteen.
- 
+      <ul>
      <li><strong><p3> Web Accessibility Initiative (WAI)</p3></strong></li>
      <p5>The W3C Web Accessibility Initiative (WAI) brings together people from industry, 
            disability organizations, government, and research labs from around the 
@@ -156,7 +156,6 @@
     <li>browsers and other "user agents"</li>
     <li>WAI-ARIA specification for accessible rich Internet applications</li>
     </ol>
-    </ul>
     </ul>
     </body>
     </html>
