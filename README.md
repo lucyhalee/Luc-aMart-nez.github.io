@@ -163,10 +163,18 @@
 		<style>
 
 		h1 {
-		    color: rgb(128, 0, 64);
+		    font-weight: normal;
+		    font-size: 20px;
+		    text-align: center;
+		    text-ident: 8mm;
+		    background: rgb(0, 156, 140);    
 		}
 		h2 {
-		    color: rgb(255, 128, 128);
+		    font-weight: normal;
+		    font-size: 20px;
+		    text-align: center;
+		    text-ident: 8mm;
+		    background: rgb(0, 156, 140); 
 		}
 		p {
 		   color: rgb(118, 60, 40);
@@ -179,7 +187,6 @@
 
 
 	    </style>
-    </head>
     <body>
     <br>
     <h1><strong>INTERNET SECURITY</strong></h1><br>
