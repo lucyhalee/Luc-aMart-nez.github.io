@@ -160,6 +160,7 @@
   
     </body>
     </html>
+    
   <html>
   <head>
         <meta charset="utf-8">
@@ -193,7 +194,7 @@
 	    </style>
     <body>
     <br>
-    <h1><strong>INTERNET SECURITY</strong></h1><br>
+    <h8><strong>INTERNET SECURITY</strong></h8><br>
     <br>
     <h2><em>WHAT IS ABOUT?</em></h2>
     <p> Internet security consists of a range of security tactics for protecting activities 
