@@ -1,40 +1,43 @@
-<html>
+ <html>
     <head>
-        <meta charset="utf-8">
-        <title> LUCIA´S WEB</title>
-		<style>
-		#LUCIA´S WEB{
-		      background-color: "#FF0080";
-		}
-		#what can you find on this website?{
-		      background-color: "E61980";
-		}
-	        h1{
-			color: rgb(255, 0, 255);
-		}
-	</style>
-    </head>
-    <body>
+	  <meta charset="utf-8">
+	  <title>HTML links</title>
+	</head>
 	 
-    <h1>LUCÍA´S WEB</h1>
-    <p>
-    <img src= "https://st.depositphotos.com/1000123/4443/i/950/depositphotos_44433061-stock-photo-techno-background.jpg">
-    </p>
-  
-    <h1><strong><p99>WHAT CAN YOU FIND ON THIS WEBSITE?</strong></h1>
-	<ul>
-	    <li>Accessibility Standar</li>
-		<li>Digital signature</li>
-		<li>Internet security</li>
-	<ol>
-	    <li>Passive and active security threats</li>
-		<li>Malware</li>
-		<li>Software and hardware to protect networks</li>
-		<li>Network protocols</li>
-		<li>Objeted oriented programing vs structured programing</li>
-		<li>Digital certificates and certificates authorities</li>
-	</ol>
-	</ul>
+	<style>
+    ul{
+	    font-weight: normal;
+		font-size :19px;
+		font-family: sans-serif;
+		text-align: left;
+		text-indent: 6mm;
+		background: rgb(159, 213, 209);
+		border: 2px dashed rgb(255, 242, 102);
+	}
+	strong {
+	      color:rgb(234, 137, 154);
+	}
+	 
+	
+     
+	</style>
+     <body>
+	  <img src= "https://webdesignbylucia.com//wp-content/uploads/2020/04/3254305-02.png" width="300">
+	   <h1><strong>WHAT CAN YOU FIND ON THIS WEBSITE?</strong></h1>
+<ul>
+    <li>Accessibility Standar</li>
+	<li>Digital signature</li>
+	<li>Internet security</li>
+<ol>
+    <li>Passive and active security threats</li>
+	<li>Malware</li>
+	<li>Software and hardware to protect networks</li>
+	<li>Network protocols</li>
+	<li>Objeted oriented programing vs structured programing</li>
+	<li>Digital certificates and certificates authorities</li>
+</ol>
+</ul>
+</body>
 	
 <html>
     <head>
