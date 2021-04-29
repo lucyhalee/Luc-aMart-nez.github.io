@@ -3,7 +3,6 @@
 	  <meta charset="utf-8">
 	  <title>HTML links</title>
 	</head>
-	 
 	<style>
     ul{
 	    font-weight: normal;
@@ -17,9 +16,6 @@
 	strong {
 	      color:rgb(234, 137, 154);
 	}
-	 
-	
-     
 	</style>
      <body>
 	  <img src= "https://webdesignbylucia.com//wp-content/uploads/2020/04/3254305-02.png" width="300">
@@ -44,8 +40,7 @@
     <head>
         <meta charset="utf-8">
         <title> ACCESIBILITY STANDARS </title>
-		<style>
-		   
+		<style>   
 		h1 {
 		    color: rgb(254, 65, 100);
 		}
@@ -55,11 +50,8 @@
 		p {
 		   color: rgb(118, 60, 40);
 		}
-  
-            
 	    </style>
     </head>
-     
      <html>
     <head>
         <meta charset="utf-8">
